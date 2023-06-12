@@ -29,7 +29,7 @@ flutter:
   plugin:
     platforms:
       android:
-        package: pro.tark.wireguard_plugin
+        package: app.wachu.wireguard_plugin
         pluginClass: WireguardPlugin
       ios:
         pluginClass: WireguardPlugin
