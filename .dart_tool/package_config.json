@@ -128,13 +128,13 @@
       "languageVersion": "2.14"
     },
     {
-      "name": "wireguard_plugin",
+      "name": "wireguard_vpn",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2023-06-12T06:15:38.079466Z",
+  "generated": "2023-06-12T07:52:38.329476Z",
   "generator": "pub",
   "generatorVersion": "2.18.2"
 }
