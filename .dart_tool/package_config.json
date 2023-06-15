@@ -128,13 +128,13 @@
       "languageVersion": "2.14"
     },
     {
-      "name": "wireguard_vpn",
+      "name": "flutter_wireguard_vpn",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2023-06-15T20:05:24.403266Z",
+  "generated": "2023-06-15T20:19:01.931313Z",
   "generator": "pub",
   "generatorVersion": "2.18.2"
 }
