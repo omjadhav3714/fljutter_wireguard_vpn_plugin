@@ -3,7 +3,7 @@
 # Run `pod lib lint wireguard_plugin.podspec` to validate before publishing.
 #
 Pod::Spec.new do |s|
-  s.name             = 'wireguard_plugin'
+  s.name             = 'wireguard_vpn'
   s.version          = '0.0.1'
   s.summary          = 'A WireGuard Flutter plugin.'
   s.description      = <<-DESC
