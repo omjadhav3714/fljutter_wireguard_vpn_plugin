@@ -29,7 +29,7 @@ flutter:
   plugin:
     platforms:
       android:
-        package: app.wachu.wireguard_plugin
+        package: app.wachu.wireguard_vpn
         pluginClass: WireguardVpnPlugin
 
   # To add assets to your plugin package, add an assets section, like this:
